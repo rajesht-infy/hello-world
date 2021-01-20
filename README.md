@@ -1,2 +1,2 @@
 # hello-world
-this is a tes edit ofr learning
+this is a test edit for learning
